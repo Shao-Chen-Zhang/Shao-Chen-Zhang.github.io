@@ -18,7 +18,6 @@ subtitle: "Version 0"
 email: Shao_Chen_Zhang@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Shawn's website! Excuse the mess around here as we work on cleaning this place up!
-twitter_username: username
 github_username: Shao-Chen-Zhang
 minimal_mistakes_skin: dark
 search: true
@@ -30,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # default is the local time zone, as set by your operating system
 
 include:
   - _pages
@@ -57,34 +56,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Shawn Zhang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My biography."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Shao-Chen-Zhang"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shawn-zhang-258599b2/"
+    - label: "Shao_Chen_Zhang@outlook.com"
+      icon: "fab fa-fw fa-envelope"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Shao-Chen-Zhang"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shawn-zhang-258599b2/"
+    - label: "Shao_Chen_Zhang@outlook.com"
+      icon: "fab fa-fw fa-envelope"
 
 defaults:
   # _posts
@@ -93,10 +87,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      classes: wide
+      author_profile: false
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -104,7 +99,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
