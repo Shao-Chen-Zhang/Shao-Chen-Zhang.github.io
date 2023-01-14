@@ -9,3 +9,11 @@ sort_by: # date (default), title or any metadata key added to the collection's d
 sort_order: # forward (default), reverse
 ---
 
+<h2>Posts</h2>
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains "personal" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

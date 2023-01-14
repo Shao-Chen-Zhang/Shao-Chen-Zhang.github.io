@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shawn Zhang
-subtitle: "Version 0"
+title: "~$hawn_Zhang is:"
+subtitle: "echo 'Shouting into the void!' > /dev/null"
 email: Shao_Chen_Zhang@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Shawn's website! Excuse the mess around here as we work on cleaning this place up!
@@ -106,4 +106,8 @@ category_archive:
   path: /categories/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /tags
+  
+collections:
+  posts:
+    output: true

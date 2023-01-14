@@ -11,3 +11,5 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: Curriculum Vitae"
+    url: /CV/
