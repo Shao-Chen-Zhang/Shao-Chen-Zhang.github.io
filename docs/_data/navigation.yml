@@ -1,15 +1,7 @@
 main:
   - title: "About"
     url: /etc/passwd/
-  - title: "Personal"
-    url: /personal/
-  - title: "Professional"
-    url: /professional/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: Curriculum Vitae"
     url: /CV/
