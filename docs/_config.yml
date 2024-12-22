@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "~$hawn_Zhang is:"
-subtitle: "echo 'Listening for the echo in the void...' > /dev/null"
+subtitle: "echo 'Listening for an echo in the void...' > /dev/null"
 email: Shao_Chen_Zhang@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Shawn's website! Excuse the mess around here as we work on cleaning this place up!
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "~$hawn_Zhang is:"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Trying to think of a good bio..."
+  name: "~$hawn_Zhang is:"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Trying to think of a good bio..."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
