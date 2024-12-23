@@ -10,11 +10,10 @@ sort_order: # forward (default), reverse
 author_profile: true
 classes: wide
 ---
-(Yes, that's me...)
 
-![](/assets/images/me-laughing.jpg)
+![](/assets/images/me-laughing.jpg){: width="350"}
 
-Protect your deepest darkest secrets.
+Keep your embarrassing photos safe... 
 {% highlight text %}
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
