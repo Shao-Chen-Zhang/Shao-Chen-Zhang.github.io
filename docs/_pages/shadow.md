@@ -12,7 +12,7 @@ classes: wide
 
 ![](/assets/images/me-laughing.jpg){: width="350"}
 
-Keep your embarrassing moments safe... 
+Keep your secrets safe... 
 {% highlight text %}
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
