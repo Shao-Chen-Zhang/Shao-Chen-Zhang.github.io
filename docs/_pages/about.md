@@ -2,7 +2,6 @@
 permalink: "/etc/passwd/"
 title: "About Me"
 classes: wide
-author_profile: true
 ---
 {% highlight bash %}
 shawn:x:0:1001:Shawn Zhang,,,:/home/shawn:/bin/bash
