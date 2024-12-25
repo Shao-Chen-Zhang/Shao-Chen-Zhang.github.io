@@ -22,9 +22,14 @@ In a field as broad as computer science, it's easy to get distracted by all sort
 
 > "I spent ten percent of my time trying to answer the question, 'what are the important problems in my field?' Ten percent.  Friday afternoon straight-through." ([29:25][timestamp-29:25])
 
-Here, Hamming recommends regularly asking ourselves what are the important problems in our field.  He illustrates that it's not all about hard work, but that academic success requires working on the right problem, in the right way, at the right time.
+Here, Hamming recommends regularly asking ourselves what are the important problems in our field.  He illustrates that it's not all about hard work, but that academic success requires working on the right problem, in the right way, at the right time.  But this idea extends beyond academia, evident in the adoption of cloud technologies and artificial intelligence which demonstrate how steady development can culminate to a crescendo of rapid progress in the industry.  If only we had the foresight to see the importance of these problems as they developed then we could contribute to that new frontier of technology and become a pioneer in something truly important.  Yet, new technology itself is of no importance if it does not become adopted.  An area often overlook within computer science is communication. 
+
+> "You need to learn to communicate orally in talks like this, written in written reports and casual conversations.  In the middle of a conference you have to be able to get up to say, 'that's wrong for these reason, bing, bing, bing, bing!' And you win.  If you sit around and say, 'well, I'll write a report tomorrow after I've thought about it some more," the decision is made we go ahead and it doesn't matter what you do then." ([34:46][timestamp-34:46])
+
+We've all sat through lectures where no one wants to speak up, or ask questions, especially in computer science courses.  There appears to be the misconception in fields such as computer science that technical ability is all that matters.  However, Hamming gives the example of special relativity where Henri Poincaré had all the same pieces as Albert Einstein did yet it was only the latter that could present the concept in a well-defined manner.  
 
 [youtube-link]: https://youtu.be/a1zDuOPkMSw?si=MIUeGof8ki9bOfHL 
 [timestamp-18:34]: https://youtu.be/a1zDuOPkMSw?si=ipuznsmSb3mAYryv&t=1114
 [timestamp-19:08]: https://youtu.be/a1zDuOPkMSw?si=Lr7OZQhkhXRRsKmO&t=1148
 [timestamp-29:25]: https://youtu.be/a1zDuOPkMSw?si=eIJHCqG_jYlltTzr&t=1765
+[timestamp-34:46]: https://youtu.be/a1zDuOPkMSw?si=_TJUplx7NZ9WVNsh&t=2086
