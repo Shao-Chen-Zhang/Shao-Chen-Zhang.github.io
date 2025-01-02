@@ -5,11 +5,11 @@ tags:
 published: 
   - true
 ---
-
-TLDR:
+**TLDR:**
 ```
 wget -O /etc/apt/trusted.gpg.d/kali_pi-archive-keyring.gpg https://re4son-kernel.com/keys/http/kali_pi-archive-keyring.gpg
 ```
+---
 
 We all have that one (or more) Raspberry Pi lying around on our shelf collecting dust.  Today I decided to dust mine off and revisit a Wi-Fi hacking project I did.  So I booted up Kali Linux on my Raspberry Pi 4, and like any respectable GNU/Linux user the first command I ran was `sudo apt update` but before I could follow it up with `sudo apt upgrade` I was met with the following error.
 
