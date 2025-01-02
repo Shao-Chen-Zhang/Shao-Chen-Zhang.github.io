@@ -66,8 +66,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shawn-zhang-258599b2/"
-    - label: "Shao_Chen_Zhang@outlook.com"
-      icon: "fab fa-fw fa-envelope"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:shao_chen_zhang@pm.me"
 
 footer:
   links:
@@ -77,8 +78,13 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shawn-zhang-258599b2/"
-    - label: "Shao_Chen_Zhang@outlook.com"
-      icon: "fab fa-fw fa-envelope"
+    - label: "Shao_Chen_Zhang@pm.me"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:shao_chen_zhang@pm.me"
+      
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
