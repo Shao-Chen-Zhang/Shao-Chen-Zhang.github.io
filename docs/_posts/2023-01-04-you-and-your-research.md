@@ -1,7 +1,7 @@
 ---
 title: '"You and Your Research" by Richard Hamming'
 tags:
-  - opinion
+  - opinions
 published: 
   - true
 ---
